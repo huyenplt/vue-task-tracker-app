@@ -1,6 +1,9 @@
 # Task Tracker App
 
 ## Project setup
+> simple excercise to practise VueJS
+
+## Project setup
 > install npm packages
 ```
 npm install
