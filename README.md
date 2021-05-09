@@ -1,6 +1,6 @@
 # Task Tracker App
 
-## Project setup
+## Overview
 > simple excercise to practise VueJS
 
 ## Project setup
