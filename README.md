@@ -1,7 +1,7 @@
 # Task Tracker App
 
 ## Overview
-> simple excercise to practise VueJS
+> simple excercise to practise VueCLI, Vue Router
 
 ## Project setup
 > install npm packages
